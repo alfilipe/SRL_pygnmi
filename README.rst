@@ -10,6 +10,8 @@ pyGNMI: Python gNMI client
 
 |project|_ |version|_ |coverage|_ |tag|_ |license|_
 
+This was forked from [pyGNMI](https://github.com/akarneliuk/pygnmi) and adapted to work as a module for Nokia SRLinux
+
 This repository contains pure Python implementation of the gNMI client to interact with the network functions.
 
 =====
